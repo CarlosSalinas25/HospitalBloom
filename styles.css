@@ -133,3 +133,13 @@ footer {
     font-size: 0.9rem;
     color: #888;
 }
+.contenido{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formulario{
+    width: 100%;
+    max-width: 500px;
+}
