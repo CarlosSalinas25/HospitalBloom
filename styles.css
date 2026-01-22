@@ -26,6 +26,10 @@ header {
     max-width: 1200px;
 }
 
+.footer{
+    margin-top: 120px;
+}
+
 header h1 {
     text-align: center;
     margin-bottom: 0.5rem;
